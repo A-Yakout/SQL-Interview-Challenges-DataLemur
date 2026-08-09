@@ -1,6 +1,6 @@
 # Repeated Payments
 
-**Difficulty:** 🟡 Medium  
+**Difficulty:** 🔴 Hard  
 **Topic:** Window Functions 
 **Link:** [View Problem on DataLemur](https://datalemur.com/questions/repeated-payments)
 
