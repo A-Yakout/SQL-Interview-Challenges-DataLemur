@@ -1,7 +1,6 @@
 # Signup Activation Rate
 
 **Difficulty:** 🟡 Medium
-**Topic:** Window Functions 
 **Link:** [View Problem on DataLemur](https://datalemur.com/questions/signup-confirmation-rate)
 
 ---
