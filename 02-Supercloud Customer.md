@@ -1,7 +1,6 @@
 # Supercloud Customer
 
 **Difficulty:** 🟡 Medium
-**Topic:** Window Functions 
 **Link:** [View Problem on DataLemur](https://datalemur.com/questions/supercloud-customer)
 
 ---
