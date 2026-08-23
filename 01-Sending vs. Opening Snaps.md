@@ -1,7 +1,6 @@
 # Sending vs. Opening Snaps
 
 **Difficulty:** 🟡 Medium
-**Topic:** Window Functions 
 **Link:** [View Problem on DataLemur](https://datalemur.com/questions/time-spent-snaps)
 
 ---
