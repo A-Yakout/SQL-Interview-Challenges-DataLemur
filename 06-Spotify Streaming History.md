@@ -1,7 +1,9 @@
 # Spotify Streaming History
 
 **Difficulty:** 🟡 Medium
-**Topic** CTE
+
+**Topic:** CTE
+
 **Link:** [View Problem on DataLemur](https://datalemur.com/questions/spotify-streaming-history)
 
 ---
