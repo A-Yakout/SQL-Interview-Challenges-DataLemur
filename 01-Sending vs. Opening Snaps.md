@@ -16,6 +16,7 @@ Calculate the following percentages:
 time spent sending / (Time spent sending + Time spent opening)
 Time spent opening / (Time spent sending + Time spent opening)
 To avoid integer division in percentages, multiply by 100.0 and not 100.
+
 ---
 
 ## 🧠 My Approach (Business Logic)
